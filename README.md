@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Subramani</h1>
 <h3 align="center">Aspiring full stack developer and ML enthusiast. Exploring life's beauty and be loved to be an product manager and team lead</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-subramani&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-subramani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-subramani&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay-subramani" alt="ajay-subramani" /></a> </p>
 
