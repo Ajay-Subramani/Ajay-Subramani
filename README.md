@@ -23,6 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-subramani&" alt="ajay-subramani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-subramani&show_icons=true&locale=en" alt="ajay-subramani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-subramani&" alt="ajay-subramani" /></p>
